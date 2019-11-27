@@ -21,3 +21,6 @@ git diff --staged
 
 # cacti i
 跳转才是成功
+
+---
+Copyright (c) 2004-2019 The Cacti Group
