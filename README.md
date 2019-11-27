@@ -14,7 +14,7 @@ git diff --staged
    This section contains information on how to install and/or upgrade the
    Cacti system.  It covers requirements, different platforms and the steps
    needed to get your system working under normal circumstances.
-[cacti install](README.md#cacti-install)
+[cacti install](README.md#cacti install)
 
 ### Cacti Installation
 跳转才是成功
