@@ -19,5 +19,5 @@ git diff --staged
 ### Cacti Installation
 跳转才是成功
 
-### cacti install
+### cacti i
 跳转才是成功
