@@ -6,3 +6,13 @@ This is a first branch ,i like note
 git status -s 
 git add file
 git diff --staged
+
+## Test md format
+
+[cacti install](README.md#cacti install)
+
+
+
+
+### cacti install
+跳转才是成功
